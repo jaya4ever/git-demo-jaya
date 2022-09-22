@@ -1,3 +1,3 @@
 # git-demo-jaya
-demo for 2022 NU classes
+demo for 2022 NU classes doing practice
 testing git
